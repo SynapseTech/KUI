@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lwjgl-nanovg-jvm-0.0.1">
+    <output-path>$PROJECT_DIR$/lwjgl-nanovg/build/libs</output-path>
+    <root id="archive" name="lwjgl-nanovg-jvm-0.0.1.jar" />
+  </artifact>
+</component>
